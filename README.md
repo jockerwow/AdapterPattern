@@ -1,6 +1,6 @@
 # AdapterPattern
 
-- Summary: Used to communicate with legacy/external APIs.
+- Summary: A Structure Pattern, used to communicate with legacy/external APIs.
 
 - Logic: It depends on creating middle-object (DTO) to memic the external API input object without changing the signature of local object.
 An Adapetr can be implemented either by Inheritance or Composition. In this example, Composition was used.
