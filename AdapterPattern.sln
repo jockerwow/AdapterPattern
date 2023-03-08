@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{5B2A683A-3F21-409B-95A7-BC108AC8E8F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystem", "PayrollSystem\PayrollSystem.csproj", "{F7856084-BD4C-430E-B33B-F8270B4A5689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B2A683A-3F21-409B-95A7-BC108AC8E8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2A683A-3F21-409B-95A7-BC108AC8E8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2A683A-3F21-409B-95A7-BC108AC8E8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2A683A-3F21-409B-95A7-BC108AC8E8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7856084-BD4C-430E-B33B-F8270B4A5689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7856084-BD4C-430E-B33B-F8270B4A5689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7856084-BD4C-430E-B33B-F8270B4A5689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7856084-BD4C-430E-B33B-F8270B4A5689}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2115EEF0-7746-4F49-B7F6-3ACC7656E5F8}
+	EndGlobalSection
+EndGlobal
