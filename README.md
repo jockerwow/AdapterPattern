@@ -9,3 +9,7 @@ An Adapetr can be implemented either by Inheritance or Composition. In this exam
 
 - The Project contains Two branches: 1- legacy: With legacy code to show the code without implementing the pattern 2- master: with the pattern applied.
 
+- Credits: 
+Passionate Coders
+https://www.youtube.com/watch?v=9YNAPv4Uz98
+
